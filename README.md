@@ -6,13 +6,13 @@
 
 - 💬 Ask me about **Tech Stuff**
 
-- 📫 How to reach me **Twitter: @dummy**
+- 📫 How to reach me **Twitter: @Ayush18x**
 
 - ⚡ Fun fact **I love to watch Anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/AdityaTweetwith" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AdityaTweetwith" height="30" width="40" /></a>
+<a href="https://twitter.com/Ayush18x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Ayush tweets" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
